@@ -19,8 +19,8 @@ console.log(`produkty ważą razem ${prod1.weight + prod2.weight}`);
 let currentUser = {
   name: "Kuba",
   surname: "Swachta",
-  email: "dupa@SpeechGrammarList.com",
-  www: "dupa.pl",
+  email: "jajakub@SpeechGrammarList.com",
+  www: "jajakub.pl",
   userType: "men",
   show() {
     console.log(`
