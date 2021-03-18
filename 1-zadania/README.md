@@ -1,6 +1,7 @@
 # Zadania - obiekty
 
 ## Zadanie 1
+
 Stwórz 2 obiekty produktów `prod1` i `prod2`, gdzie każdy z nich będzie miał właściwości: `name`, `price`, `weight`.
 
 Wypisz oba obiekty w konsoli.
@@ -16,6 +17,7 @@ Produkty ważą razem: ...
 Gdzie pod zmienne podstaw odpowiednie dane.
 
 ## Zadanie 2
+
 Stwórz obiekt **currentUser**. Obiekt niech ma właściwości:
 `name`, `surname`, `email`, `www`, `userType`,
 
@@ -31,6 +33,7 @@ console.log("Nazwisko: ", ....);
 Wywołaj metodę tego obiektu.
 
 ## Zadanie 3
+
 Stwórz obiekt book, który będzie miał właściwości:
 `title`, `author`, `pageCount`, `publisher`.
 
