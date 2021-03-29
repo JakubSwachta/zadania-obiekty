@@ -41,7 +41,7 @@ let book = {
   publisher: "nowaEra",
   showDetails() {
     for (let prop in book) {
-      propValue = book[prop];
+      let propValue = book[prop];
       console.log(prop + ": " + propValue);
     }
   },
